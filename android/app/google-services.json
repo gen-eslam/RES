@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867218081496",
+    "project_id": "restorant-f8eff",
+    "storage_bucket": "restorant-f8eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867218081496:android:739df60841786a981239ad",
+        "android_client_info": {
+          "package_name": "com.example.restorant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBE7mzGAriiAcmPlAhymmDQR3P1-8ZxVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
